@@ -3,8 +3,8 @@ Contributors: kubiq
 Donate link: https://www.paypal.me/jakubnovaksl
 Tags: menu, nav, navigation, bulk, batch, generate, remove, delete
 Requires at least: 4.0
-Tested up to: 6.5
-Stable tag: 9.5
+Tested up to: 6.9
+Stable tag: 9.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,8 @@ Create multiple menu items at once or quick delete menu item with or without all
 [youtube https://youtu.be/U7gQ4HmcUTs]
 <br/>
 [youtube https://youtu.be/e_3zLGHQouo]
+<br/>
+[youtube https://youtu.be/P5tFncQkRCg]
 <br/>
 
 <ul>
@@ -31,7 +33,23 @@ Create multiple menu items at once or quick delete menu item with or without all
 <strong>PRO version features (<a href="https://wp-speedup.eu/shop/wordpress-plugins/pro-plugins/bulk-menu-creator-pro/" target="_blank">BUY HERE</a>):</strong>
 
 <ul>
-	<li>Duplicate menu functionality - this will work with all menu items metas, so you will not lose your Polylang Languages settings, or custom ACF icons or other data like when you use other plugins for duplicating menus</li>
+	<li>
+		<strong>generate posts directly from the Menus screen</strong>
+		<ul>
+			<li>no need to leave your Menus screen to create new drafts that you will need later</li>
+			<li>generate multiple posts, pages or other post type posts at once</li>
+			<li>use 2 space / tab indent to create subpages</li>
+			<li>you can provide custom slugs for newly generated posts or let them generate automatically from the titles</li>
+		</ul>
+	</li>
+	<li>
+		<strong>duplicate menu functionality</strong>
+		<ul>
+			<li>works with all the menu items metas</li>
+			<li>you will not lose your Polylang Languages settings</li>
+			<li>also works with ACF icons or other data</li>
+		</ul>
+	</li>
 	<li>
 		<strong>taxonomy terms auto generated menu items</strong>
 		<ul>
@@ -102,6 +120,10 @@ Create multiple menu items at once or quick delete menu item with or without all
 2. Quick delete
 
 == Changelog ==
+
+= 9.6 =
+* Tested on WP 6.9
+* PRO ONLY: generate posts directly from the Menus screen
 
 = 9.5 =
 * Tested on WP 6.5

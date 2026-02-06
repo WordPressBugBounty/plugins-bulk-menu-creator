@@ -3,7 +3,7 @@
 	Plugin Name:	Bulk menu creator
 	Plugin URI:		https://wp-speedup.eu/shop/wordpress-plugins/pro-plugins/bulk-menu-creator-pro/
 	Description:	Create multiple menu items at once
-	Version:		9.5
+	Version:		9.6
 	Author:			KubiQ
 	Author URI:		https://kubiq.sk
 	Text Domain:	bulk_menu
